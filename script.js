@@ -42,14 +42,3 @@ function clueTwo(){
 	}
 }
 
-function nextImage(el){
-	if (el.src.match("images/letterN")){
-		el.src("images/letterA");
-	} else if (){
-		// if the image is a lemon, change it to an orange!
-	} else if (){
-		// if the image is an orange, change it to a cherry!
-	} else {
-		// do nothing
-	}
-}
